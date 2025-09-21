@@ -1,7 +1,7 @@
 {
   "name": "durga-prasanna-konde-portfolio",
   "version": "1.0.0",
-  "description": "Professional cybersecurity blue team portfolio showcasing 5+ years of experience in vulnerability management, threat intelligence, and incident response",
+  "description": "Professional cybersecurity blue team portfolio showcasing 6+ years of experience in vulnerability management, threat intelligence, and incident response",
   "main": "index.html",
   "scripts": {
     "start": "npx http-server . -p 3000 -o",
@@ -32,8 +32,8 @@
   ],
   "author": {
     "name": "Durga Prasanna Konde",
-    "email": "prasanna.konde@email.com",
-    "url": "https://your-portfolio-url.com"
+    "email": "konde.durgap@email.com",
+    "url": "https://kondedurgap-git.github.io/Durga-portfolio/"
   },
   "license": "MIT",
   "repository": {
@@ -61,4 +61,5 @@
     "node": ">=14.0.0",
     "npm": ">=6.0.0"
   }
+
 }
